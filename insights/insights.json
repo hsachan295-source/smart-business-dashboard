@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "category": "Sales",
+    "severity": "critical",
+    "title": "Sales Drop in Central Region",
+    "detail": "Revenue in Central region declined 41.0% over the last 90 days (\u20b92,833,867 \u2192 \u20b91,672,077).",
+    "recommendation": "Investigate root causes in Central: competitor activity, rep performance, or pricing issues. Consider urgent sales blitz or discounting campaign.",
+    "timestamp": "2026-03-20 14:02"
+  },
+  {
+    "id": 2,
+    "category": "Sales",
+    "severity": "positive",
+    "title": "Strong Growth in East Region",
+    "detail": "Revenue in East surged 37.4% vs the prior 90 days. (\u20b91,217,924 \u2192 \u20b91,672,822).",
+    "recommendation": "Replicate the winning strategy from East in underperforming regions.",
+    "timestamp": "2026-03-20 14:02"
+  },
+  {
+    "id": 3,
+    "category": "Sales",
+    "severity": "critical",
+    "title": "Sales Drop in North Region",
+    "detail": "Revenue in North region declined 22.0% over the last 90 days (\u20b92,294,869 \u2192 \u20b91,789,965).",
+    "recommendation": "Investigate root causes in North: competitor activity, rep performance, or pricing issues. Consider urgent sales blitz or discounting campaign.",
+    "timestamp": "2026-03-20 14:02"
+  },
+  {
+    "id": 4,
+    "category": "Sales",
+    "severity": "critical",
+    "title": "Sales Drop in South Region",
+    "detail": "Revenue in South region declined 43.0% over the last 90 days (\u20b92,795,447 \u2192 \u20b91,592,354).",
+    "recommendation": "Investigate root causes in South: competitor activity, rep performance, or pricing issues. Consider urgent sales blitz or discounting campaign.",
+    "timestamp": "2026-03-20 14:02"
+  },
+  {
+    "id": 5,
+    "category": "Sales",
+    "severity": "critical",
+    "title": "Sales Drop in West Region",
+    "detail": "Revenue in West region declined 47.0% over the last 90 days (\u20b92,448,812 \u2192 \u20b91,298,577).",
+    "recommendation": "Investigate root causes in West: competitor activity, rep performance, or pricing issues. Consider urgent sales blitz or discounting campaign.",
+    "timestamp": "2026-03-20 14:02"
+  },
+  {
+    "id": 6,
+    "category": "Churn",
+    "severity": "critical",
+    "title": "Overall Churn Rate: 39.5%",
+    "detail": "High customer churn detected. 789 out of 2,000 customers have churned.",
+    "recommendation": "Launch targeted retention campaigns. Focus on customers with NPS < 5 and last login > 60 days as highest-priority re-engagement targets.",
+    "timestamp": "2026-03-20 14:02"
+  },
+  {
+    "id": 7,
+    "category": "Churn",
+    "severity": "warning",
+    "title": "Highest Churn in East Region (50.5%)",
+    "detail": "East has the highest churn rate at 50.5%, well above the company average of 39.5%.",
+    "recommendation": "Assign a dedicated customer success manager to East. Offer loyalty discounts and schedule quarterly business reviews.",
+    "timestamp": "2026-03-20 14:02"
+  },
+  {
+    "id": 8,
+    "category": "Churn",
+    "severity": "info",
+    "title": "Segment Churn Breakdown",
+    "detail": "SMB: 41.8% | Startup: 40.5% | Government: 38.3% | Enterprise: 37.5%",
+    "recommendation": "Focus retention efforts on SMB segment first.",
+    "timestamp": "2026-03-20 14:02"
+  },
+  {
+    "id": 9,
+    "category": "Churn",
+    "severity": "info",
+    "title": "Top Churn Predictors (ML Model)",
+    "detail": "Machine learning analysis identified the strongest churn signals: Last Login Days, Annual Spend, Support Tickets.",
+    "recommendation": "Build early-warning alerts when customers show: last login > 60 days, NPS < 5, or support tickets > 10 in a 30-day window.",
+    "timestamp": "2026-03-20 14:02"
+  },
+  {
+    "id": 10,
+    "category": "Product",
+    "severity": "positive",
+    "title": "Product C is the Revenue Leader",
+    "detail": "Product C accounts for \u20b917,946,125 in total revenue (22.3% of total).",
+    "recommendation": "Expand Product C cross-sell opportunities across all regions.",
+    "timestamp": "2026-03-20 14:02"
+  },
+  {
+    "id": 11,
+    "category": "Product",
+    "severity": "warning",
+    "title": "Product A Needs Attention",
+    "detail": "Product A has the lowest revenue at \u20b915,104,786 (18.7% of total).",
+    "recommendation": "Review Product A pricing, positioning, and sales enablement materials.",
+    "timestamp": "2026-03-20 14:02"
+  },
+  {
+    "id": 12,
+    "category": "Profitability",
+    "severity": "positive",
+    "title": "Avg Profit Margin: 43.6%",
+    "detail": "Company-wide average profit margin is 43.6%. West has the lowest margin at 43.5%.",
+    "recommendation": "Review discount policies in West. Target margin floor of 35%.",
+    "timestamp": "2026-03-20 14:02"
+  }
+]
